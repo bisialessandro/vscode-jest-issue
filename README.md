@@ -12,3 +12,4 @@ Running the command:
 
 We will notice that all the test will be succesfully executed but if we go inside the file JestExtensionIssue we will see that it's not possible to see the green check on the side of the test with the same name inside of the same file. 
 
+![Issue image](jest-extension-issue.png)
